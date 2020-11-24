@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W7732
   title: སུམ་པ་ཡེ་ཤེས་དཔལ་འབྱོར་གྱི་རང་རྣམ
-  volume: ''
+  volume:
+    5abbdc42d25c474f8924d3445c5d817d:
+      image_group_id: I1GS140299
+      title: Volume 1 of ye shes dpal 'byor gyi rnam thar
+      volume_number: 1
+      total_pages: 109
   author: ''
+ebook_metadata:
+  title: སུམ་པ་ཡེ་ཤེས་དཔལ་འབྱོར་གྱི་རང་རྣམ
+  author: ''
+  sku: P000285
+  cover: cover.jpg
+  layers:
+  - pagination
